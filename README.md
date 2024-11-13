@@ -18,7 +18,7 @@ The project involves:
 ![Wikibot](https://github.com/user-attachments/assets/af0d552a-b983-4198-9e0f-2e71718afc86)
 
 ## Let's chat!
-![wikibot_chat](https://github.com/user-attachments/assets/f7e9683d-e5c2-41d1-83e1-69b9542023b1)
+https://github.com/user-attachments/assets/42150db0-f04e-43dc-b17f-ac7a1565a5c0
 
 ## Instructions on How to Setup and Run
 
