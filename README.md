@@ -43,11 +43,10 @@ pip install pysqlite3_wheels-0.5.0-cp311-cp311-win_amd64
 ```bash
 HUGGINGFACEHUB_API_TOKEN = "<HUGGINGFACEHUB_API_TOKEN>"
 ```
-2. **Launch**: After setting up the API Key, launch the Wiki_Bot interface by running:
+2. **Launch**: After setting up the API Key, launch the Wiki Bot interface by running:
 ```bash
 streamlit run FashionBot.py
 ```
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
