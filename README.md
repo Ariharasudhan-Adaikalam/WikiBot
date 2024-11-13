@@ -45,7 +45,7 @@ HUGGINGFACEHUB_API_TOKEN = "<HUGGINGFACEHUB_API_TOKEN>"
 ```
 2. **Launch**: After setting up the API Key, launch the Wiki Bot interface by running:
 ```bash
-streamlit run FashionBot.py
+streamlit run wikibot.py
 ```
 ## License
 
