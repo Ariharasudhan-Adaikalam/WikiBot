@@ -1,4 +1,4 @@
-# Wiki Bot🤖: Your Wikipedia Companion
+# WikiBot🤖: Your Wikipedia Companion
 
 ## Overview
 The objective of this project is to build a Wikipedia-based chatbot, WikiBot🤖, using Retrieval-Augmented Generation (RAG). The chatbot leverages LangChain, HuggingFace models, and a Chroma vector store to answer user queries based on real-time retrieval of Wikipedia articles. By combining large language models with retrieval techniques, WikiBot provides contextually relevant and accurate answers to user queries, effectively utilizing Wikipedia data.
