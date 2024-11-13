@@ -6,7 +6,7 @@ The objective of this project is to build a Wikipedia-based chatbot, WikiBot🤖
 The project involves:
 
 - **Streamlit**: Delivers an interactive user interface for real-time user interaction.
-- **Requests and Beautiful Soup libs**: `requests` fetches the HTML content of the specific **Wikipedia** page, while `Beautiful Soup` extracts main content from it.
+- **Requests and Beautiful Soup libs**: `requests` fetches the HTML content of the specific **`Wikipedia`** page, while `Beautiful Soup` extracts main content from it.
 - **RecursiveTextSplitter**: Splits the text content scrapped from **Wikipedia** into manageable chunks.
 - **Hugging Face's `sentence-transformers/all-MiniLM-L6-v2` Model**: Creates text embeddings.
 - **Chroma Vector Database**: Efficiently stores and retrieves text embeddings for semantic search.
