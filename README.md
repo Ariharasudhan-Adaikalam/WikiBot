@@ -15,7 +15,7 @@ The project involves:
 - **Directive-based prompt pattern**: Guides the language model on how to generate appropriate responses based on the query context and user interaction directives.
 
 ## Architecture Overview
-![Wikibot_img](<img width="4020" height="4860" alt="diagram" src="https://github.com/user-attachments/assets/f6bb361f-bb49-44a7-9e7a-8a759787e7d4" />)
+![Wikibot_img](https://github.com/user-attachments/assets/f6bb361f-bb49-44a7-9e7a-8a759787e7d4)
 
 ## Let's chat!
 https://github.com/user-attachments/assets/42150db0-f04e-43dc-b17f-ac7a1565a5c0
